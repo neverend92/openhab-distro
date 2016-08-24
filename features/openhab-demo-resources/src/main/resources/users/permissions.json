@@ -1,0 +1,1 @@
+[{"reqUrl":"/auth/login","roles":[]},{"reqUrl":"/start/index","roles":[]},{"reqUrl":"/classicui/app","roles":[]},{"reqUrl":"/basicui/app","roles":[]},{"reqUrl":"/rest/","roles":[]},{"reqUrl":"/ui/index.html","roles":["admin"]},{"reqUrl":"/doc/index.html","roles":["admin"]},{"reqUrl":"/usermgmt/app","roles":["admin"]},{"reqUrl":"/nodemgmt/app","roles":["admin"]}]
