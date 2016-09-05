@@ -1,4 +1,5 @@
-Group gFF           "First Floor"   <firstfloor>
+Group Test          "TestFloor"     <testfloor>
+Group gFF           "First Floor 2"   <firstfloor>
 Group gGF           "Ground Floor"  <groundfloor>
 Group gC            "Cellar"        <cellar>
 Group Garden        "Garden"        <garden>

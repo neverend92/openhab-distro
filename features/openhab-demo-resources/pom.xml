@@ -42,6 +42,11 @@
                                 <artifact><file>src/main/resources/services/basicui.cfg</file><type>cfg</type><classifier>services-basicui</classifier></artifact>
                                 <artifact><file>src/main/resources/services/classicui.cfg</file><type>cfg</type><classifier>services-classicui</classifier></artifact>
                                 <artifact><file>src/main/resources/services/runtime.cfg</file><type>cfg</type><classifier>services-runtime</classifier></artifact>
+                                <artifact><file>src/main/resources/services/addons.cfg</file><type>cfg</type><classifier>services-addons</classifier></artifact>
+                                <artifact><file>src/main/resources/users/nodes.json</file><type>json</type><classifier>users-nodes</classifier></artifact>
+                                <artifact><file>src/main/resources/users/permissions.json</file><type>json</type><classifier>users-permissions</classifier></artifact>
+                                <artifact><file>src/main/resources/users/tokens.json</file><type>json</type><classifier>users-tokens</classifier></artifact>
+                                <artifact><file>src/main/resources/users/users.json</file><type>json</type><classifier>users-users</classifier></artifact>
                             </artifacts>
                         </configuration>
                     </execution>
