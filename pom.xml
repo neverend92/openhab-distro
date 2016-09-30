@@ -112,6 +112,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-deploy-plugin</artifactId>
+								<version>2.5.5</version>
                 <configuration>
                     <skip>true</skip>
                 </configuration>
@@ -187,7 +188,7 @@
             </releases>
             <snapshots>
                 <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
+                <updatePolicy>never</updatePolicy>
             </snapshots>
         </repository>
 
@@ -257,7 +258,7 @@
             </releases>
             <snapshots>
                 <enabled>true</enabled>
-               <updatePolicy>always</updatePolicy>
+               <updatePolicy>never</updatePolicy>
             </snapshots>
         </repository>
 
@@ -271,7 +272,7 @@
             </releases>
             <snapshots>
                 <enabled>true</enabled>
-               <updatePolicy>always</updatePolicy>
+               <updatePolicy>never</updatePolicy>
             </snapshots>
         </repository>
     </repositories>
