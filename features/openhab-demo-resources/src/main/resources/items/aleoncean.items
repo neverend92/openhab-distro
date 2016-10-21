@@ -1,0 +1,1 @@
+Number Window_Test1 "Temperatur [%s]" <temperature> {aleoncean="REMOTEID=01:02:03:04,TYPE=RD_A5-20-01,PARAMETER=OPEN_CLOSED"}

@@ -1,0 +1,1 @@
+Number Master_Window_Test1 "Temperatur [%s]" <temperature> { mqtt="<[mosquitto:/slave1/out/Window_Test1/state:state:default], >[mosquitto:/slave1/in/Window_Test1/command:command:*:default]" }

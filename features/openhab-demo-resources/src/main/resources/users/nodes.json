@@ -1,1 +1,1 @@
-[{"ip":"https://127.0.0.1:8443","description":"Local OpenHAB","credentials":"admin:admin"}]
+[{"ip":"https://127.0.0.1:8443","description":"Local OpenHAB","name":"slave1","credentials":"admin:admin","extensions":["binding1","binding-mqtt","binding-aleoncean"]}]
