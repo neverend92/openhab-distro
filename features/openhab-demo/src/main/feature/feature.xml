@@ -18,6 +18,10 @@
         <configfile finalname="${openhab.conf}/services/basicui.cfg" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/cfg/services-basicui</configfile>
         <configfile finalname="${openhab.conf}/services/classicui.cfg" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/cfg/services-classicui</configfile>
         <configfile finalname="${openhab.conf}/services/logging.cfg" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/cfg/services-logging</configfile>
+				<configfile finalname="${openhab.conf}/users/users.json" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/json/users-users</configfile>
+				<configfile finalname="${openhab.conf}/users/nodes.json" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/json/users-nodes</configfile>
+				<configfile finalname="${openhab.conf}/users/permissions.json" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/json/users-permissions</configfile>
+				<configfile finalname="${openhab.conf}/users/tokens.json" override="false">mvn:${project.groupId}/openhab-demo-resources/${project.version}/json/users-tokens</configfile>
         <configfile finalname="${openhab.userdata}/etc/org.openhab.addons.cfg" override="true">mvn:${project.groupId}/openhab-demo-resources/${project.version}/cfg/addons</configfile>
     </feature>
 
