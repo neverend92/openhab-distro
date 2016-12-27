@@ -1,1 +1,1 @@
-[{"username":"stefan","password":"stefan","roles":["admin"]},{"username":"user","password":"user","roles":["gFF"]},{"username":"admin","password":"admin","roles":["admin","user"]}]
+[{"username":"stefan","password":"stefan","roles":["admin"]},{"username":"user","password":"user","roles":["gFF"]},{"username":"admin","password":"admin","roles":["admin","user"]},{"username":"openhab","password":"openhab","roles":["admin"]}]

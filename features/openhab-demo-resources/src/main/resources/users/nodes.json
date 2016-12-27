@@ -1,1 +1,1 @@
-[{"ip":"https://127.0.0.1:8443","description":"Local OpenHAB","name":"slave1","credentials":"admin:admin","extensions":["binding1","binding-mqtt","binding-aleoncean"]}]
+[{"ip":"https://127.0.0.1:8443","description":"Local OpenHAB","name":"slave1","credentials":"admin:admin","extensions":["binding1","binding-mqtt","binding-aleoncean"]},{"ip":"http://localhost:8080","description":"Dies ist eine einfache Testnode","name":"Testnode","credentials":"openhab:openhab","extensions":[]}]
